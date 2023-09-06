@@ -1,1 +1,1 @@
-This repo is for the preprocessing and analysis of methylation across transposable elements across the lifepsan in aligned genomic data.
+This repo is for the preprocessing and analysis of single cell cerebellar and PFC human brain data, from patients with HIV and/or Opiod-use disorder. 
